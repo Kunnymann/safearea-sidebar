@@ -35,3 +35,7 @@ Using `SafeareaSidebar` can easily resolve these problems.
 | Name                               | License                                                                      |
 |------------------------------------|------------------------------------------------------------------------------|
 | com.unity.device-simulator.devices | [Unity license](https://unity.com/kr/legal/licenses/unity-companion-license) |
+
+## License
+
+This is available under the [MIT License](https://github.com/Kunnymann/safearea-sidebar/blob/main/LICENSE).
