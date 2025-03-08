@@ -1,8 +1,8 @@
 # Unity safearea sidebar
 
-When developing mobile applications in Unity, the **com.unity.device-simulator.devices** package provides convenient layout guidelines for Unity engineers. However, it has limitations in addressing various gaps that occur between the device's **SafeArea** and **Unity UI**.
+When developing mobile applications in Unity, the `com.unity.device-simulator.devices` package provides convenient layout guidelines for Unity engineers. However, it has limitations in addressing various gaps that occur between the device's **SafeArea** and **Unity UI**.
 
-mong these numerous gaps, I particularly focused on finding an easier way to implement the device's **TopBar** and **BottomBar** (e.g., Bottomsheet). Through the materials in this repository, I'd like to share my approach with you.
+Among these numerous gaps, I particularly focused on finding an easier way to implement the device's **TopBar** and **BottomBar** (e.g., Bottomsheet). Through the materials in this repository, I'd like to share my approach with you.
 
 # How to use
 
