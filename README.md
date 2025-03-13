@@ -11,7 +11,7 @@ When working on UI in the canvas, situations often arise where you need to creat
 In these cases, engineer must consider two issues:
 
 1. Is the TopBar or BottomBar exposed outside the SafeArea?
-2. Does the TopBar or BottomBar fail to account for areas outside the SafeArea?
+2. Does the TopBar or BottomBar not fill the area outside of SafeArea?
 
 ![how_to_use_01](./Image/how_to_use_01.png)
 
